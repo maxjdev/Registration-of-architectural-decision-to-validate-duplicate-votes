@@ -1,0 +1,1 @@
+# Registration-of-architectural-decision-to-validate-duplicate-votes
